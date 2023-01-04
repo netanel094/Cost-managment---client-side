@@ -5,7 +5,6 @@ class LocalStorageWrapper {
     }
 
     
-
      addItem(Name,Sum,Category, date, i)
     {
         try {
