@@ -12,19 +12,10 @@ class LocalStorageWrapper {
             // console.log(data);
             this.storage.setItem("item" + i, JSON.stringify(data));
 
-            Swal.fire({
-                title: 'Success!',
-                text: 'The item was added to the list',
-                icon: 'success',
-                showConfirmButton: false,
-                timer: 10000
-              });
-
-              setTimeout(10000);
-            }
-              
-            catch (error) {
+        } catch (error) {
             console.error("failed to add item" + error);
         }
     }
+
+
 }
