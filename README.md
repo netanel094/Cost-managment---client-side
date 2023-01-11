@@ -13,7 +13,8 @@ It is possible to add new products and check the total expenses by month and yea
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-Screen Shots >>
+
+##Screen Shots:
 ![CostMng1](https://user-images.githubusercontent.com/99219592/211167713-1f708d92-a8fd-4771-8386-0ce6df205144.jpg)
 ![CostMng2](https://user-images.githubusercontent.com/99219592/211167711-794561f5-99d0-4cba-bc5c-851bf050df13.jpg)
 ![CostMng3](https://user-images.githubusercontent.com/99219592/211167708-bb7831bf-7228-4782-b791-fce18acebcae.jpg)
