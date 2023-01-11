@@ -1,4 +1,4 @@
-# Cost-managment >> Link >> https://costmanage.netlify.app/
+## Cost-managment >> Link >> https://costmanage.netlify.app/
 Screen Shots >>
 ![CostMng1](https://user-images.githubusercontent.com/99219592/211167713-1f708d92-a8fd-4771-8386-0ce6df205144.jpg)
 ![CostMng2](https://user-images.githubusercontent.com/99219592/211167711-794561f5-99d0-4cba-bc5c-851bf050df13.jpg)
