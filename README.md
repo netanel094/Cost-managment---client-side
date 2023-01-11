@@ -1,10 +1,10 @@
-## Cost-managment >> Link >> https://costmanage.netlify.app/
 
 
 ## Cost manager - client side
 As part of the "Client Side" course, we were asked to build a website that simulates managing financial expenses.
 It is possible to add new products and check the total expenses by month and year.
 
+[Click here](cost-managment.netlify.app) to go to the website.
 
 ## :hammer_and_wrench: Languages I used:
 <div>
