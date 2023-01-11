@@ -1,9 +1,5 @@
 function init() {
-    Swal.fire(
-        'Good job!',
-        'You clicked the button!',
-        'success'
-      )
+
     let name = document.getElementById("fname").value;
     let sum = document.getElementById("Price").value;
     let category = document.getElementById("browser").value;
@@ -18,14 +14,8 @@ function init() {
         else {
             i = localStorage.getItem("i");
         }
-
-        
-        
+    
         createItem(name, sum, category, date, i);
-        
-        
-
-
     }
 }
 
@@ -36,6 +26,6 @@ function createItem(name, sum, category, date, i) {
     storage.addItem(name, sum, category, date, i);
     i++;
     localStorage.setItem("i", i);
-    
+
 }
 
