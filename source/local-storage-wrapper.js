@@ -1,3 +1,7 @@
+// Netanel Yomtovian 207498700
+// Itay Yaakov 206777989
+// Kobi Nissim 313202996
+
 class LocalStorageWrapper {
   constructor() {
     this.storage = window.localStorage;

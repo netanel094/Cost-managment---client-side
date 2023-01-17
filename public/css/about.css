@@ -1,7 +1,16 @@
+/*
+Netanel Yomtovian 207498700
+Itay Yaakov 206777989
+Kobi Nissim 313202996 */
+
 @font-face {
   font-family: "SegoeUItalic";
   src: url("./SegoeUI-SemiboldItalic.eot");
-  src: url("./SegoeUI-SemiboldItalic.eot?#iefix") format("embedded-opentype"), url("./SegoeUI-SemiboldItalic.woff") format("woff"), url("./SegoeUI-SemiboldItalic.woff2") format("woff2"), url("./SegoeUI-SemiboldItalic.ttf") format("truetype"), url("./SegoeUI-SemiboldItalic.svg") format("svg");
+  src: url("./SegoeUI-SemiboldItalic.eot?#iefix") format("embedded-opentype"),
+    url("./SegoeUI-SemiboldItalic.woff") format("woff"),
+    url("./SegoeUI-SemiboldItalic.woff2") format("woff2"),
+    url("./SegoeUI-SemiboldItalic.ttf") format("truetype"),
+    url("./SegoeUI-SemiboldItalic.svg") format("svg");
   font-weight: 350;
   font-style: italic;
   font-stretch: normal;
@@ -53,7 +62,6 @@ span {
     margin-top: -50px;
   }
 }
-
 
 .card {
   cursor: pointer;

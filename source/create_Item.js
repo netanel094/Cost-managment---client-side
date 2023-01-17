@@ -1,3 +1,7 @@
+// Netanel Yomtovian 207498700
+// Itay Yaakov 206777989
+// Kobi Nissim 313202996
+
 function init() {
   let name = document.getElementById("fname").value;
   let sum = document.getElementById("Price").value;
