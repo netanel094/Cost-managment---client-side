@@ -19,15 +19,6 @@ function init() {
   }
 }
 
-async function createItem(name, sum, category, date, i) {
-  const storage = new LocalStorageWrapper();
-  await storage.addItem(name, sum, category, date, i);
-  i++;
-  await localStorage.setItem("i", i);
-  openPopup();
-  clearForm(name, sum, category, date);
-}
-
 function openPopup() {
   let popup = document.getElementById("popup");
   popup.classList.add("open-popup");
